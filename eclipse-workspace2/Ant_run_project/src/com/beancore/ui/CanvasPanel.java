@@ -122,12 +122,12 @@ public class CanvasPanel extends JPanel implements Runnable {
 	}
 	@Override
 	protected void paintComponent(Graphics g) {
-	super.paintComponent(g);
+	super.paintComponent(g);//
 	g.drawImage(rob, Config.XROBPOS, Config.YROBPOS, Config.ROBWIDTH, Config.ROBHEIGHT, this);
 	
 	
 
-	for(int i=0;i<numOfAlive;i++) {
+	for(int i=0;i<numOfAlive;i++) {//
 //		如果第一只到达0位置或右边到达600位置
 		//两只蚂蚁相撞
 		if((i!=numOfAlive-1)&&(antState[i].isLeft()==false)&&(antState[i+1].isLeft()==true)) {
