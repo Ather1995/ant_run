@@ -5,7 +5,7 @@
 附加：给出自定义每只蚂蚁的朝向，给出全部蚂蚁落下的时间。
 
 ##项目展示
-![overall](https://github.com/Ather1995/ant_run/blob/master/eclipse-workspace2/Ant_run_project/blob/ant_run.gif?raw=true)
+![last page](https://github.com/Ather1995/ant_run/blob/master/eclipse-workspace2/Ant_run_project/blob/ant_run.gif?raw=true)
 
 ##首页动画效果
 ![last page](https://github.com/Ather1995/ant_run/blob/master/eclipse-workspace2/Ant_run_project/blob/ani.png?raw=true)
